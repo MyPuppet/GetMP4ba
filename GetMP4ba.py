@@ -25,7 +25,7 @@ class GetMP4ba:
     <link href="https://cdn.bootcss.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
-    <table class="table-responsive table-hover">
+    <table class="table table-hover">
         <th>电影名</th>
         <th>磁力连接</th>''')
 
